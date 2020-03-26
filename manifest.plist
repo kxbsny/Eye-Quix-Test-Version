@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.eyequix.test</string>
 				<key>bundle-version</key>
-				<string>10.1.3</string>
+				<string>10.1.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
@@ -47,87 +47,18 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-8A5E5129-B81B-429A-AD29-F4F9D7B0C47C.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-A9325B3D-4B5D-4154-834D-181651BBA0E7.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPad5,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,11</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,6</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,11</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,8</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,12</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,12</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,7</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,5</string>
+							<string>iPhone8,2</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
 					</array>
 					<key>variantIds</key>
-					<array>
-						<string>iPad7,11</string>
-						<string>iPad7,12</string>
-					</array>
+					<array/>
 				</dict>
 				<dict>
 					<key>bundle-identifier</key>
@@ -135,18 +66,12 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-A40B7716-A314-43C3-96E9-F48805E0ED42.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-EBCCF6FE-F59F-42E4-BE6A-3F2C45387389.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
 							<string>iPhone9,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,5</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -158,19 +83,13 @@
 						</dict>
 						<dict>
 							<key>device</key>
+							<string>iPhone12,5</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
 							<string>iPhone11,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,6</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -182,7 +101,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone12,5</string>
+							<string>iPhone11,6</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -194,13 +113,25 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone11,6</string>
+							<string>iPhone10,2</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,2</string>
+							<string>iPhone10,6</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,5</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -217,36 +148,12 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-692F8599-0B9C-452C-B086-1FF00ABF1D29.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-C8DBEE67-EE38-4C1B-9801-E0FA2B700601.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone11,6</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,2</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,2</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,5</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,6</string>
+							<string>iPhone9,4</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -258,7 +165,13 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone9,4</string>
+							<string>iPhone10,5</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,4</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -270,7 +183,25 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone11,4</string>
+							<string>iPhone11,2</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,6</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,2</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,6</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -288,7 +219,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-EAE45984-E45F-4FA6-9C01-6E6F2089215A.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-2D180228-DE0B-4EC0-AF39-10436E33BDD5.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -307,30 +238,12 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-A22943B0-3E88-49D0-81D7-4C36E5EC7342.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-FFE1F8A6-FD3D-47BE-A99B-9F1BD1AB550D.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPad8,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,4</string>
+							<string>iPad7,1</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -342,49 +255,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad7,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,7</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,5</string>
+							<string>iPad11,2</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -396,7 +267,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad6,3</string>
+							<string>iPad7,4</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -408,13 +279,73 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad8,1</string>
+							<string>iPad7,3</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPad11,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,2</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,5</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,7</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,2</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -428,7 +359,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-CECD0B76-3193-4CA3-A952-5F98C8AEED0A.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-1FB4F764-C432-490D-B3DF-7881D1FAE654.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -447,12 +378,18 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-F4AA8737-8E25-4EF9-9FEB-E802EDABED95.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-2BAA17A4-7A95-4258-B350-251200844EDB.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPad8,4</string>
+							<string>iPad7,4</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,1</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -470,7 +407,13 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad7,1</string>
+							<string>iPad7,3</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,2</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -482,25 +425,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad7,4</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,6</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
 							<string>iPad6,4</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,2</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -518,7 +443,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad7,3</string>
+							<string>iPad8,3</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -530,7 +455,13 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad8,3</string>
+							<string>iPad8,4</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,6</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -553,7 +484,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-B9BC6E0E-4C51-4BAB-863C-28C3E50BC1D8.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-01FBEC82-EBCA-4AA3-8FCA-95AA06B022EF.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -585,7 +516,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-2DE21B12-23A6-40E6-B3CC-3E417E2E6D32.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-5DAA75E7-76A7-4AB5-962E-3B885BDCE5FF.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -610,18 +541,18 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-EFF99E4E-C751-45C1-87C9-B265EA0DD888.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-27B41F3B-3420-4B51-8405-AFEA73BFF414.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,4</string>
+							<string>iPhone9,3</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,1</string>
+							<string>iPhone10,4</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -633,7 +564,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone9,3</string>
+							<string>iPhone10,1</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -647,7 +578,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-DF8CC2C8-DFA1-478C-AD63-F703BAF4EA8B.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-F4E8EF08-61F1-4F64-9EAA-495FD497D80F.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -662,18 +593,18 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-BF20B7F4-552D-4ABE-86C9-A187EE16255F.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-0321C451-061A-47E7-8C93-1D7355376992.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone7,1</string>
+							<string>iPhone8,2</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone8,2</string>
+							<string>iPhone7,1</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -687,7 +618,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-1C1CDA18-A22D-43BD-BDCE-E514CFDD9E12.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-4189ED37-E8AA-4076-8100-1F48E882246A.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -704,27 +635,9 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-D5588F20-97CA-4568-8CBA-D5810013D8DC.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-1071D190-A19B-421D-BD33-2D21A09B43DA.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
-						<dict>
-							<key>device</key>
-							<string>iPod9,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone6,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPhone6,2</string>
@@ -739,13 +652,31 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPod7,1</string>
+							<string>iPod9,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone6,1</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPhone8,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPod7,1</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -761,7 +692,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-835EAE60-E2B4-41B8-9469-130FCDAF91B1.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-2D3E92A0-0410-44DA-A0B1-D545346B83E9.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -788,7 +719,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-E3781CF1-81B8-421F-9026-98DFBE5AA29A.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-7AE0F3A9-2C58-435C-95E2-2E8882B3DBE2.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -807,7 +738,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-FA202DB8-AFB5-4508-9C2B-3EA4FF37DDFA.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-4BF44AB9-2784-44A8-8E25-C68BB744738D.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -828,7 +759,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-97C925DD-5039-45D7-87D8-06ABC0B7E662.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-406D8C92-127B-4B70-9C66-104707636F17.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -847,78 +778,12 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-1E193E3A-C639-46E4-A992-19A5B10F3E2C.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-B3311BD5-C93E-45BB-9FBC-FFDC95CF2844.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
 							<string>iPad8,5</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,7</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,6</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,8</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,1</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -930,13 +795,13 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad11,4</string>
+							<string>iPad11,2</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad8,3</string>
+							<string>iPad8,4</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -948,13 +813,79 @@
 						</dict>
 						<dict>
 							<key>device</key>
+							<string>iPad6,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,7</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,6</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
 							<string>iPad7,3</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
+							<string>iPad7,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
 							<string>iPad8,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,8</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,3</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -973,9 +904,39 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-0122C40F-701A-47E0-85B8-A09D419C95CB.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-E15BDBF0-C605-4A92-9B83-F01E9BB9A63C.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
+						<dict>
+							<key>device</key>
+							<string>iPad7,5</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,8</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,5</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,11</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,4</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPad6,7</string>
@@ -996,43 +957,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad4,7</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,8</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,2</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,6</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
 							<string>iPad5,1</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,5</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,8</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -1044,31 +969,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad5,4</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,2</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,5</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,11</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,6</string>
+							<string>iPad4,4</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -1080,13 +981,43 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad4,4</string>
+							<string>iPad5,2</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPad5,3</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,7</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,8</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,2</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,6</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,6</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -1100,42 +1031,12 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-E734FF6C-CB42-4D30-B64B-4E6356357A11.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-A70D3285-0CF3-4EC0-8D08-7A768E8161DC.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPad7,6</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
 							<string>iPad4,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,6</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,7</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,8</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,5</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -1147,61 +1048,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad5,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,8</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,11</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,12</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,5</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,9</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,1</string>
+							<string>iPad4,7</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -1213,7 +1060,91 @@
 						</dict>
 						<dict>
 							<key>device</key>
+							<string>iPad4,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,6</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,5</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,8</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
 							<string>iPad5,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,11</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,9</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,6</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,8</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,5</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,12</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -1227,36 +1158,43 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-4A4D543A-672A-431D-9FB3-7CE0E97EB118.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-8E7714C9-B740-48DE-B996-9519F551B95A.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone11,2</string>
+							<string>iPhone8,4</string>
 							<key>os-version</key>
-							<string>12.2</string>
+							<string>13.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone11,6</string>
+							<string>iPhone8,1</string>
 							<key>os-version</key>
-							<string>12.2</string>
+							<string>13.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,6</string>
+							<string>iPod9,1</string>
 							<key>os-version</key>
-							<string>12.2</string>
+							<string>13.0</string>
 						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.eyequix.test</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-0A138DF5-6ABE-4D4A-80E5-0DB4E258B477.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,5</string>
+							<string>iPhone11,4</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -1268,7 +1206,13 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone11,4</string>
+							<string>iPhone11,6</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,2</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -1280,40 +1224,27 @@
 						</dict>
 						<dict>
 							<key>device</key>
+							<string>iPhone10,5</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
 							<string>iPhone10,3</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.eyequix.test</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-6AC1462F-931B-4A10-8B08-017A7303685E.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone8,4</string>
+							<string>iPhone10,6</string>
 							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPod9,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
+							<string>12.2</string>
 						</dict>
 					</array>
 					<key>variantIds</key>
@@ -1325,18 +1256,18 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-92698627-ACE6-4215-B50E-15BD1E9D0823.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-41711C9C-C2BA-4DB3-BCF1-8372D3321B90.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone9,1</string>
+							<string>iPhone9,3</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone9,3</string>
+							<string>iPhone9,1</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -1362,7 +1293,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-1C53F7D3-F170-4E6C-B6E8-C2E64D5578C6.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-F42FA772-171F-4B73-A2CC-788AB911517E.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1373,13 +1304,13 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone6,2</string>
+							<string>iPod7,1</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPod7,1</string>
+							<string>iPhone6,2</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -1411,12 +1342,12 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-A552DA89-5A39-44E3-81FB-909B6C5166A5.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-9328F21F-5451-4551-9CAB-4F782F572A9A.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,1</string>
+							<string>iPhone10,4</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -1428,13 +1359,13 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,4</string>
+							<string>iPhone9,3</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone9,3</string>
+							<string>iPhone10,1</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -1448,18 +1379,87 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-38B4797A-034E-4BED-9D48-A34AF1FA187F.ipa</string>
+					<string>https://github.com/kxbsny/Eye-Quix-Test-Version/raw/master/Eye%20Quix-037A1A63-C495-4ACE-9E84-F28247C34509.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone8,2</string>
+							<string>iPad5,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,11</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,7</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,12</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,12</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,5</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,6</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,2</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,11</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,8</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
 					</array>
 					<key>variantIds</key>
-					<array/>
+					<array>
+						<string>iPad7,11</string>
+						<string>iPad7,12</string>
+					</array>
 				</dict>
 			</array>
 		</dict>
